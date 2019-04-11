@@ -1,0 +1,20 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  background: #0095dd;
+}
+canvas {
+  background: url(../img/gamebackground.png);
+  border: 1px solid #0098dd;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+  font-family: "Press Start 2P", cursive;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
